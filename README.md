@@ -7,7 +7,7 @@ In the tutorial, I introduce how to build an “React.js Nodejs CRUD MongoDB Exa
 – Nodejs project produces CRUD RestAPIs with MongoDB database using the supporting of Mongoose ODM.
 – React.js project will consume the Nodejs CRUD RestAPIs by Ajax then show up on Reactjs component’s views.
 
-## List to do:
+## List to do - Reactjs Nodejs MongoDB CRUD Example – MERN Stack Application:
 
 – I draw a fullstack overview Diagram Architecture from React.js Frontend to MongoDB database through Nodejs RestAPI backend.
 – Develop Nodejs CRUD RestAPIs with the supporting of Mongoose ODM.
@@ -33,7 +33,7 @@ We have 4 main blocks for the application:
 - We implement how to process each API URL in controller.js file
 - We use Bootstrap and JQuery Ajax to implement frontend client.
 
-## Reactjs CRUD Application Design
+## Reactjs CRUD Application Design - Reactjs Nodejs MongoDB CRUD Example – MERN Stack Application
 
 ![Reactjs CRUD Application design](https://loizenai.com/wp-content/uploads/2020/11/Reactjs-CRUD-RestAPI-Application-Frontend-Architecture-Diagram-4.png)
 
@@ -48,15 +48,19 @@ Reactjs CRUD Application defines 5 components:
 - CustomerEdit.js is used to modify the existed customer
 - App.js uses React Router to navigate between components.
 
-## Integrative Project Goal
+## Integrative Project Goal - Reactjs Nodejs MongoDB CRUD Example – MERN Stack Application
 
 ![Integrative Project Goal](https://loizenai.com/wp-content/uploads/2020/11/Project-Goal-Customer-List-3.png)
 
 Tutorial: [Reactjs Nodejs MongoDB CRUD Example](https://loizenai.com/reactjs-nodejs-mongodb-crud/)
 
 
-Related posts:
+## Related posts - Reactjs Nodejs MongoDB CRUD Example – MERN Stack Application
 - [How to Integrate Reactjs with Nodejs Tutorial](https://loizenai.com/integrate-reactjs-nodejs-tutorial/)
 - [Reactjs Node.js MySQL CRUD Example](https://loizenai.com/reactjs-nodejs-crud-mysql/)
 - [Reactjs Nodejs PostgreSQL Example](https://loizenai.com/reactjs-nodejs-postgresql-example/)
 - [Reactjs Nodejs MongoDB CRUD Example – MERN Stack Application](https://loizenai.com/reactjs-nodejs-mongodb-crud/)
+
+## Youtube video
+
+https://www.youtube.com/watch?v=Tn4Dfztkvww&t=49s
